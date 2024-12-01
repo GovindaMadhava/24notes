@@ -1,5 +1,5 @@
 # 24notes
-Demo of the 24-note octave in Indian Classical Music
+Demo video: https://www.youtube.com/watch?v=ogiEwbC8maw 
 
 Motivation: Came across this YouTube video explaining how a 24-note octave provides a wider palette for expressing music. Wanted to visualise how it sounds in comparisono to the standard 12-note octave prevalent today.
 https://www.youtube.com/watch?v=lvmzgVtZtUQ 
